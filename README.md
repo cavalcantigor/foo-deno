@@ -1,5 +1,5 @@
-## Denotrain
-Some random stuffs with Deno and a http server `typescript` based.
+## foo-deno
+Some random stuffs with Deno and an http server `typescript` based.
 
 ### Basic
 Basic file demonstrates how to create
